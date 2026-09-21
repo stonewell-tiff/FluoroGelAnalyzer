@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # In-gel fluorescence densitometry
 
 A small desktop tool for ImageJ-style lane analysis of grayscale TIFF images.
