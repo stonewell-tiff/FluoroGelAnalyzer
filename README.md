@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # In-gel fluorescence densitometry
 
 A small desktop tool for ImageJ-style lane analysis of grayscale TIFF images.
@@ -20,3 +21,7 @@ python app.py
 5. Click **Export CSV**. Each row contains the peak bounds, raw integrated density, background integrated density, and background-corrected total integrated density based on the mean-grey-value profile.
 
 Use **Reset** to start a new measurement. TIFF stacks are reduced to their first page.
+=======
+# FluoroGelAnalyzer
+Perform densitometry for in-gel fluorescence, background subtraction to obtain corrected AUC for quantification of gel badn species. 
+>>>>>>> dc30e154a73c05b8f917c822c8b66403442d3467
