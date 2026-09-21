@@ -9,7 +9,7 @@ A small desktop tool for ImageJ-style lane analysis of grayscale TIFF images.
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
-python app.py
+python FluoroGelAnalyzer.py
 ```
 
 ## Workflow
@@ -23,5 +23,5 @@ python app.py
 Use **Reset** to start a new measurement. TIFF stacks are reduced to their first page.
 =======
 # FluoroGelAnalyzer
-Perform densitometry for in-gel fluorescence, background subtraction to obtain corrected AUC for quantification of gel badn species. 
->>>>>>> dc30e154a73c05b8f917c822c8b66403442d3467
+Perform densitometry for in-gel fluorescence, background subtraction to obtain corrected AUC for quantification of gel band species. 
+
